@@ -7,10 +7,10 @@
 Sou apaixonada por resolver problemas utilizando a programação.
 Sou uma FullStack Web Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **CasalDev**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ :couple:  &nbsp; Juntamente com o @juliofelipe, faço parte do **CasalDev**
+ <br/> :purple_heart: &nbsp; Sou instrutora de cursos na área de tecnologia e desenvolvo projetos pessoais e para clientes.
+ <br/> :blush: &nbsp; Posso te ajudar a se tornar um desenvolvedor fluente ou a tirar o seu sonho do papel desenvolvendo o seu sistema / website.
+ <br/> :computer: &nbsp; Minha stack: Python, Django, PHP, ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, e, principalmente, minha família.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-HelenaOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helenaraoliveira/)](https://www.linkedin.com/in/helenaraoliveira/) 
 | 
