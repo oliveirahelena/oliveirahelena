@@ -14,4 +14,4 @@ Sou uma FullStack Web Developer :computer:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, e, principalmente, minha família.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-HelenaOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helenaraoliveira/)](https://www.linkedin.com/in/helenaraoliveira/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:helena.oliveira@casaldev.com.br)](helena.oliveira@casaldev.com.br)
+[![Gmail Badge](https://img.shields.io/badge/-helena.oliveira@casaldev.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:helena.oliveira@casaldev.com.br)](helena.oliveira@casaldev.com.br)
